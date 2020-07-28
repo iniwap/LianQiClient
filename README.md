@@ -16,4 +16,4 @@ APK里为安卓打包文件，可以直接安装体验。（当然如果服务�
 
 其中部分资源、游戏玩法（原创）不可用于商业用途，如有需要，请联系我。
 ---
-Email:iniwaper@gmail.com  QQ:522765228
+Email:iniwaper@gmail.com  QQ:522765228  
