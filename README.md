@@ -2,7 +2,10 @@
 
 主要核心功能均已完成，界面未做完。以下是预览：
 
-![image](https://github.com/iniwap/LianQiClient/blob/master/ScreenShot/IMG_8079.PNG)
+![image](https://github.com/iniwap/LianQiClient/blob/master/screenshot/1.jpg)
+![image](https://github.com/iniwap/LianQiClient/blob/master/screenshot/2.jpg)
+![image](https://github.com/iniwap/LianQiClient/blob/master/screenshot/3.jpg)
+![image](https://github.com/iniwap/LianQiClient/blob/master/screenshot/4.jpg)
 
 ---
 APK里为安卓打包文件，可以直接安装体验。（当然如果服务器我还在续费的话，泪目）。
