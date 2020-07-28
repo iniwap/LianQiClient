@@ -7,9 +7,9 @@
 ![image](https://github.com/iniwap/LianQiClient/blob/master/screenshot/3.jpg)
 ![image](https://github.com/iniwap/LianQiClient/blob/master/screenshot/4.jpg)
 
----
 环境:Unity 2019.2.3f1
 APK里为安卓打包文件，可以直接安装体验。（当然如果服务器我还在续费的话，泪目）。
+
 说明：
 ---
 几年前写的项目，初次接触使用U3D，实现方式不够U3D，不完美的地方望见谅。放出来供大家参考、学习，有兴趣的可自行优化、完善。
