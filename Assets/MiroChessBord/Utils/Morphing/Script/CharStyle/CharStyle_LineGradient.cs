@@ -1,0 +1,19 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace Lyu
+{
+	public class CharStyle_LineGradient:CharStyleBase
+	{
+		public Gradient _Gradient;
+		override public void SetStyle(GameObject CharObj)
+		{
+			LineRenderer [] lrs = 
+				CharObj.GetComponentsInChildren<LineRenderer> ();
+			foreach (LineRenderer lr in lrs) {
+				lr.colorGradient = _Gradient;
+			}
+		}
+	}
+}

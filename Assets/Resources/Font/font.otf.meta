@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3f4d047bab91149778ff23e667f28bad
+timeCreated: 1496037047
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ZoomlaDaxue-A021
+  fontNames:
+  - ZoomlaDaxue-A021
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
