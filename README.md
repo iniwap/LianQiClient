@@ -8,6 +8,7 @@
 ![image](https://github.com/iniwap/LianQiClient/blob/master/screenshot/4.jpg)
 
 环境:Unity 2019.2.3f1
+---
 APK里为安卓打包文件，可以直接安装体验。（当然如果服务器我还在续费的话，泪目）。
 
 说明：
