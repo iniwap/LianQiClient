@@ -70,11 +70,6 @@ public class AccountView : MonoBehaviour {
 
 		if (state == ResponseState.Success)
 		{
-			/*
-			 * {"access_token":"8C81B379BCE72BC8913D84B4EC993070", "msg":"", "pay_token":"3B98C5EA33476B465CD43D04A28FB66C",
-			 * "openid":"D408119B7AE5319F3B18BFAC47D1F579", "ret":0, "expires_in":7775999.99989396, 
-			 * "pf_key":"8adff5cf6ef03c730ef79719ce48e2fc", "pf":"openmobile_ios"}
-			*/
 			_thirdOpenId = (string)result["openid"];
 			_thirdToken = (string)result["access_token"];
 			_thirdExpireTime = (int)(double)result ["expires_in"];
@@ -101,16 +96,6 @@ public class AccountView : MonoBehaviour {
 
 		if (state == ResponseState.Success)
 		{
-			/*
-			 * {"figureurl_2":"http://qzapp.qlogo.cn/qzapp/1106301431/D408119B7AE5319F3B18BFAC47D1F579/100", 
-			 * "figureurl_qq_2":"http://q.qlogo.cn/qqapp/1106301431/D408119B7AE5319F3B18BFAC47D1F579/100", 
-			 * "yellow_vip_level":"0", "msg":"", "province":"\u6d59\u6c5f", "gender":"\u7537", 
-			 * "is_yellow_year_vip":"0", "nickname":"Elif", "level":"0", "ret":0,
-			 * "figureurl_qq_1":"http://q.qlogo.cn/qqapp/1106301431/D408119B7AE5319F3B18BFAC47D1F579/40", 
-			 * "city":"\u676d\u5dde", "vip":"0", "figureurl":"http://qzapp.qlogo.cn/qzapp/1106301431/D408119B7AE5319F3B18BFAC47D1F579/30", 
-			 * "figureurl_1":"http://qzapp.qlogo.cn/qzapp/1106301431/D408119B7AE5319F3B18BFAC47D1F579/50", "is_lost":0, "is_yellow_vip":"0"}
-			*/
-
 			AccountEvent.ThirdPartyLoginResult ret;
 			ret.head = (string)result["figureurl_qq_2"];
 			ret.name = (string)result["nickname"];
