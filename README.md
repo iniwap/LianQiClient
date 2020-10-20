@@ -1,6 +1,6 @@
 # 基于Pomelo类棋牌游戏U3D客户端
 
-主要核心功能均已完成，界面未做完。以下是预览：
+主要核心功能均已完成，界面未做完。以下是部分预览：
 
 ![image](https://github.com/iniwap/LianQiClient/blob/master/screenshot/1.jpg)
 ![image](https://github.com/iniwap/LianQiClient/blob/master/screenshot/2.jpg)
